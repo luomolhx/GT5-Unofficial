@@ -660,6 +660,9 @@ public class AssemblyLineRecipes implements Runnable {
         GT_Values.RA.addAssemblylineRecipe(
                 ItemList.Machine_IV_OreWasher.get(1),
                 432000,
+                /*
+                 * 1个MAX
+                 */
                 new Object[] { ItemList.Hull_MAX.get(1L), ItemList.Electric_Motor_UHV.get(32L),
                         ItemList.Electric_Piston_UHV.get(8L), ItemList.Electric_Pump_UHV.get(16L),
                         ItemList.Conveyor_Module_UHV.get(8L), ItemList.Robot_Arm_UHV.get(8L),

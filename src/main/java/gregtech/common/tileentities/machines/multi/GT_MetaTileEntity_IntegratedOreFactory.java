@@ -47,7 +47,7 @@ public class GT_MetaTileEntity_IntegratedOreFactory
 
     private static final int CASING_INDEX1 = 183;
     private static final int CASING_INDEX2 = 49;
-    private static final int MAX_PARA = 1024;
+    private static final int MAX_PARA = 16384;
     private static final String CRUSH = "Macerate";
     private static final String WASH = "Ore Washer";
     private static final String THERMAL = "Thermal Centrifuge";
